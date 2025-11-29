@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingresar - Tienda Cell E.S.M </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>🛍️ tienda celltech</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="carrito.html" class="cart-link">
+                        🛒 Carrito 
+                        <span class="cart-count" id="cartCount">0</span>
+                    </a></li>
+                    <li id="loginSection">
+                        <a href="login.html" class="btn-login active">🔑 Ingresar</a>
+                    </li>
+                    <li id="userSection" style="display: none;">
+                        <span class="user-info">
+                            <span class="user-avatar" id="userAvatar">U</span>
+                            <span id="userName">Usuario</span>
+                        </span>
+                        <a href="#" id="logoutBtn" class="btn-logout">Salir</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Login Section -->
+    <section class="login-section">
+        <div class="container">
+            <div class="login-container">
+                <h2>🔐 Ingresar a tienda celltech</h2>
+                
+                <form class="login-form" id="loginForm">
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                        <span class="error-message" id="emailError"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Contraseña:</label>
+                        <input type="password" id="password" name="password" required>
+                        <span class="error-message" id="passwordError"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block">
+                        Ingresar
+                    </button>
+                </form>
+
+                <div class="login-links">
+                    <p>¿No tienes cuenta? <a href="#" id="showRegister">Regístrate aquí</a></p>
+                    <a href="#" id="forgotPassword">¿Olvidaste tu contraseña?</a>
+                </div>
+            </div>
+
+            <!-- Registro -->
+            <div class="login-container" id="registerContainer" style="display: none;">
+                <h2>📝 Crear Cuenta</h2>
+                
+                <form class="login-form" id="registerForm">
+                    <div class="form-group">
+                        <label for="regName">Nombre completo:</label>
+                        <input type="text" id="regName" name="regName" required>
+                        <span class="error-message" id="regNameError"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="regEmail">Email:</label>
+                        <input type="email" id="regEmail" name="regEmail" required>
+                        <span class="error-message" id="regEmailError"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="regPassword">Contraseña:</label>
+                        <input type="password" id="regPassword" name="regPassword" required>
+                        <span class="error-message" id="regPasswordError"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="regConfirmPassword">Confirmar contraseña:</label>
+                        <input type="password" id="regConfirmPassword" name="regConfirmPassword" required>
+                        <span class="error-message" id="regConfirmPasswordError"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block">
+                        Crear Cuenta
+                    </button>
+                </form>
+
+                <div class="login-links">
+                    <p>¿Ya tienes cuenta? <a href="#" id="showLogin">Ingresa aquí</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Tienda Cell E.S.M  Todos los derechos reservados.</p>
+            <div class="social-links">
+                <a href="#" aria-label="Facebook">📘</a>
+                <a href="#" aria-label="Instagram">📷</a>
+                <a href="#" aria-label="Twitter">🐦</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">
+        <span id="toastMessage"></span>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="login.js"></script>
+</body>
+</html>

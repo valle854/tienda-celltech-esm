@@ -1,0 +1,226 @@
+[
+{
+"id": 1,
+"nombre": "Huawei 70 pura ultra",
+"categoria": "Celulares",
+"descripcion": "Smartphone de última generación con cámara de 48MP y pantalla OLED",
+"precio": 699.99,
+"imagen": "/imagenes/celulares/cel1.jpg"
+},
+{
+"id": 2,
+"nombre": "Samsung",
+"categoria": "Celulares",
+"descripcion": "Samsung Slip de 256 por 12ram",
+"precio": 399.99,
+"imagen": "/imagenes/celulares/cel10.webp"
+},
+{
+"id": 3,
+"nombre": "Infiny",
+"categoria": "Celulares",
+"descripcion": "Infiny camon 40 pro de 256 por 16ram",
+"precio": 220.99,
+"imagen": "/imagenes/celulares/cel12.webp"
+},
+{
+"id": 4,
+"nombre": "Iphone",
+"categoria": "Celulares",
+"descripcion": "Iphone 13 pro max de 256",
+"precio": 859.99,
+"imagen": "/imagenes/celulares/cel3.webp"
+},
+{
+"id": 5,
+"nombre": "Samsung",
+"categoria": "Celulares",
+"descripcion": "samsung galaxy a25 ultra",
+"precio": 1299.99,
+"imagen": "/imagenes/celulares/cel9.jpg"
+},
+{
+"id": 6,
+"nombre": "Motorola",
+"categoria": "Celulares",
+"descripcion": "moto edge 50 ultra 5G",
+"precio": 499.99,
+"imagen": "/imagenes/celulares/cel5.png"
+},
+{
+"id": 7,
+"nombre": "Audifono",
+"categoria": "Audifono",
+"descripcion": "bluetooth recargable duradero",
+"precio": 19.99,
+"imagen": "/imagenes/audifono/aud1.jpg"
+},
+{
+"id": 8,
+"nombre": "Audifono",
+"categoria": "Audifono",
+"descripcion": "Mouse ergonómico con RGB y sensor de alta precisión",
+"precio": 19.99,
+"imagen": "/imagenes/audifono/aud2.webp"
+},
+{
+"id": 9,
+"nombre": "Audifono",
+"categoria": "Audifono",
+"descripcion": "bluetooth recargable duradero",
+"precio": 12.99,
+"imagen": "/imagenes/audifono/aud4.jpeg"
+},
+
+    {
+        "id": 10,
+        "nombre": "Audifono",
+        "categoria": "Audifono",
+        "descripcion": "audifono de cordon",
+        "precio": 9.99,
+        "imagen": "/imagenes/audifono/aud6.jpeg"
+    },
+    {
+        "id": 12,
+        "nombre": "Cargador",
+        "categoria": "Cargador",
+        "descripcion": "carga rapida",
+        "precio": 9.99,
+        "imagen": "/imagenes/cargadores/carg1.webp"
+    },
+    {
+        "id": 13,
+        "nombre": "Cargador",
+        "categoria": "Cargador",
+        "descripcion": "carga rapida",
+        "precio": 10.99,
+        "imagen": "/imagenes/cargadores/carg2.webp"
+    },
+    {
+        "id": 14,
+        "nombre": "Cargador",
+        "categoria": "Cargador",
+        "descripcion": "carga rapida",
+        "precio": 10.99,
+        "imagen": "/imagenes/cargadores/carg3.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Cargador",
+        "categoria": "Cargador",
+        "descripcion": "carga rapida",
+        "precio": 10.99,
+        "imagen": "/imagenes/cargadores/carg5.jpeg"
+    },
+    {
+        "id": 16,
+        "nombre": "Funda",
+        "categoria": "Funda",
+        "descripcion": "funda de cilicon",
+        "precio": 2.99,
+        "imagen": "/imagenes/funda/fun1.webp"
+    },{
+        "id": 17,
+        "nombre": "Funda",
+        "categoria": "Funda",
+        "descripcion": "capa doble",
+        "precio": 2.99,
+        "imagen": "/imagenes/funda/fun2.webp"
+    },
+    {
+        "id": 18,
+        "nombre": "Funda",
+        "categoria": "Funda",
+        "descripcion": "proteccion completa",
+        "precio": 4.99,
+        "imagen": "/imagenes/funda/fun3.webp"
+    },
+    {
+        "id": 19,
+        "nombre": "Funda",
+        "categoria": "Funda",
+        "descripcion": "funda de cilicon doble",
+        "precio": 2.99,
+        "imagen": "/imagenes/funda/fun4.jpeg"
+    },
+    {
+        "id": 20,
+        "nombre": "Bateria",
+        "categoria": "Bateria",
+        "descripcion": "bateria de 20,000 mah",
+        "precio": 12.99,
+        "imagen": "/imagenes/bateria/bat1.webp"
+    },
+    {
+        "id": 21,
+        "nombre": "Bateria",
+        "categoria": "Bateria",
+        "descripcion": "bateria de 20,000 mah multiuso",
+        "precio": 10.99,
+        "imagen": "/imagenes/bateria/bat2.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Bateria",
+        "categoria": "Bateria",
+        "descripcion": "bateria 5,000 mah",
+        "precio": 9.99,
+        "imagen": "/imagenes/bateria/bat3.webp"
+    },
+    {
+        "id": 23,
+        "nombre": "Bateria",
+        "categoria": "Bateria",
+        "descripcion": "mega bateria de 50,000mah",
+        "precio": 19.99,
+        "imagen": "/imagenes/bateria/bat5.webp"
+    },
+    {
+        "id": 24,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "soporte para celulares",
+        "precio": 9.99,
+        "imagen": "/imagenes/otros/res1.webp"
+    },
+    {
+        "id": 25,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "kit desarmadores",
+        "precio": 10.99,
+        "imagen": "/imagenes/otros/res2.webp"
+    },
+    {
+        "id": 26,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "soporte de celulares",
+        "precio": 9.99,
+        "imagen": "/imagenes/otros/res3.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "kit stencion de calor y plancha",
+        "precio": 250.99,
+        "imagen": "/imagenes/otros/res4.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "variedades de pantalla y modelos",
+        "precio": 0.00,
+        "imagen": "/imagenes/otros/res5.webp"
+    },
+    {
+        "id": 29,
+        "nombre": "Otros",
+        "categoria": "Otros",
+        "descripcion": "kit de herramienta",
+        "precio": 20,
+        "imagen": "/imagenes/otros/res6.jpg"
+    }
+]
