@@ -5,7 +5,7 @@
 "categoria": "Celulares",
 "descripcion": "Smartphone de última generación con cámara de 48MP y pantalla OLED",
 "precio": 699.99,
-"imagen": "./imagenes/celulares/cel1.jpg"
+"imagen": "imagenes/celulares/cel1.jpg"
 },
 {
 "id": 2,
@@ -13,7 +13,7 @@
 "categoria": "Celulares",
 "descripcion": "Samsung Slip de 256 por 12ram",
 "precio": 399.99,
-"imagen": "./imagenes/celulares/cel10.webp"
+"imagen": "imagenes/celulares/cel10.webp"
 },
 {
 "id": 3,
@@ -21,7 +21,7 @@
 "categoria": "Celulares",
 "descripcion": "Infiny camon 40 pro de 256 por 16ram",
 "precio": 220.99,
-"imagen": "./imagenes/celulares/cel12.webp"
+"imagen": "imagenes/celulares/cel12.webp"
 },
 {
 "id": 4,
@@ -29,7 +29,7 @@
 "categoria": "Celulares",
 "descripcion": "Iphone 13 pro max de 256",
 "precio": 859.99,
-"imagen": "./imagenes/celulares/cel3.webp"
+"imagen": "imagenes/celulares/cel3.webp"
 },
 {
 "id": 5,
@@ -37,7 +37,7 @@
 "categoria": "Celulares",
 "descripcion": "samsung galaxy a25 ultra",
 "precio": 1299.99,
-"imagen": "./imagenes/celulares/cel9.jpg"
+"imagen": "imagenes/celulares/cel9.jpg"
 },
 {
 "id": 6,
@@ -45,7 +45,7 @@
 "categoria": "Celulares",
 "descripcion": "moto edge 50 ultra 5G",
 "precio": 499.99,
-"imagen": "/imagenes/celulares/cel5.png"
+"imagen": "imagenes/celulares/cel5.png"
 },
 {
 "id": 7,
@@ -53,7 +53,7 @@
 "categoria": "Audifono",
 "descripcion": "bluetooth recargable duradero",
 "precio": 19.99,
-"imagen": "./imagenes/audifono/aud1.jpg"
+"imagen": "imagenes/audifono/aud1.jpg"
 },
 {
 "id": 8,
@@ -61,7 +61,7 @@
 "categoria": "Audifono",
 "descripcion": "Mouse ergonómico con RGB y sensor de alta precisión",
 "precio": 19.99,
-"imagen": "./imagenes/audifono/aud2.webp"
+"imagen": "imagenes/audifono/aud2.webp"
 },
 {
 "id": 9,
@@ -69,7 +69,7 @@
 "categoria": "Audifono",
 "descripcion": "bluetooth recargable duradero",
 "precio": 12.99,
-"imagen": "/imagenes/audifono/aud4.jpeg"
+"imagen": "imagenes/audifono/aud4.jpeg"
 },
 
     {
@@ -78,7 +78,7 @@
         "categoria": "Audifono",
         "descripcion": "audifono de cordon",
         "precio": 9.99,
-        "imagen": "/imagenes/audifono/aud6.jpeg"
+        "imagen": "imagenes/audifono/aud6.jpeg"
     },
     {
         "id": 12,
@@ -86,7 +86,7 @@
         "categoria": "Cargador",
         "descripcion": "carga rapida",
         "precio": 9.99,
-        "imagen": "/imagenes/cargadores/carg1.webp"
+        "imagen": "imagenes/cargadores/carg1.webp"
     },
     {
         "id": 13,
@@ -94,7 +94,7 @@
         "categoria": "Cargador",
         "descripcion": "carga rapida",
         "precio": 10.99,
-        "imagen": "/imagenes/cargadores/carg2.webp"
+        "imagen": "imagenes/cargadores/carg2.webp"
     },
     {
         "id": 14,
@@ -102,7 +102,7 @@
         "categoria": "Cargador",
         "descripcion": "carga rapida",
         "precio": 10.99,
-        "imagen": "/imagenes/cargadores/carg3.jpg"
+        "imagen": "imagenes/cargadores/carg3.jpg"
     },
     {
         "id": 15,
@@ -110,7 +110,7 @@
         "categoria": "Cargador",
         "descripcion": "carga rapida",
         "precio": 10.99,
-        "imagen": "/imagenes/cargadores/carg5.jpeg"
+        "imagen": "imagenes/cargadores/carg5.jpeg"
     },
     {
         "id": 16,
@@ -118,14 +118,14 @@
         "categoria": "Funda",
         "descripcion": "funda de cilicon",
         "precio": 2.99,
-        "imagen": "/imagenes/funda/fun1.webp"
+        "imagen": "imagenes/funda/fun1.webp"
     },{
         "id": 17,
         "nombre": "Funda",
         "categoria": "Funda",
         "descripcion": "capa doble",
         "precio": 2.99,
-        "imagen": "/imagenes/funda/fun2.webp"
+        "imagen": "imagenes/funda/fun2.webp"
     },
     {
         "id": 18,
@@ -133,7 +133,7 @@
         "categoria": "Funda",
         "descripcion": "proteccion completa",
         "precio": 4.99,
-        "imagen": "/imagenes/funda/fun3.webp"
+        "imagen": "imagenes/funda/fun3.webp"
     },
     {
         "id": 19,
@@ -141,7 +141,7 @@
         "categoria": "Funda",
         "descripcion": "funda de cilicon doble",
         "precio": 2.99,
-        "imagen": "/imagenes/funda/fun4.jpeg"
+        "imagen": "imagenes/funda/fun4.jpeg"
     },
     {
         "id": 20,
@@ -149,7 +149,7 @@
         "categoria": "Bateria",
         "descripcion": "bateria de 20,000 mah",
         "precio": 12.99,
-        "imagen": "/imagenes/bateria/bat1.webp"
+        "imagen": "imagenes/bateria/bat1.webp"
     },
     {
         "id": 21,
@@ -157,7 +157,7 @@
         "categoria": "Bateria",
         "descripcion": "bateria de 20,000 mah multiuso",
         "precio": 10.99,
-        "imagen": "/imagenes/bateria/bat2.jpg"
+        "imagen": "imagenes/bateria/bat2.jpg"
     },
     {
         "id": 22,
@@ -165,7 +165,7 @@
         "categoria": "Bateria",
         "descripcion": "bateria 5,000 mah",
         "precio": 9.99,
-        "imagen": "/imagenes/bateria/bat3.webp"
+        "imagen": "imagenes/bateria/bat3.webp"
     },
     {
         "id": 23,
@@ -173,7 +173,7 @@
         "categoria": "Bateria",
         "descripcion": "mega bateria de 50,000mah",
         "precio": 19.99,
-        "imagen": "/imagenes/bateria/bat5.webp"
+        "imagen": "imagenes/bateria/bat5.webp"
     },
     {
         "id": 24,
@@ -181,7 +181,7 @@
         "categoria": "Otros",
         "descripcion": "soporte para celulares",
         "precio": 9.99,
-        "imagen": "/imagenes/otros/res1.webp"
+        "imagen": "imagenes/otros/res1.webp"
     },
     {
         "id": 25,
@@ -189,7 +189,7 @@
         "categoria": "Otros",
         "descripcion": "kit desarmadores",
         "precio": 10.99,
-        "imagen": "/imagenes/otros/res2.webp"
+        "imagen": "imagenes/otros/res2.webp"
     },
     {
         "id": 26,
@@ -197,7 +197,7 @@
         "categoria": "Otros",
         "descripcion": "soporte de celulares",
         "precio": 9.99,
-        "imagen": "/imagenes/otros/res3.jpg"
+        "imagen": "imagenes/otros/res3.jpg"
     },
     {
         "id": 27,
@@ -205,7 +205,7 @@
         "categoria": "Otros",
         "descripcion": "kit stencion de calor y plancha",
         "precio": 250.99,
-        "imagen": "/imagenes/otros/res4.jpg"
+        "imagen": "imagenes/otros/res4.jpg"
     },
     {
         "id": 28,
@@ -213,7 +213,7 @@
         "categoria": "Otros",
         "descripcion": "variedades de pantalla y modelos",
         "precio": 0.00,
-        "imagen": "/imagenes/otros/res5.webp"
+        "imagen": "imagenes/otros/res5.webp"
     },
     {
         "id": 29,
@@ -221,6 +221,6 @@
         "categoria": "Otros",
         "descripcion": "kit de herramienta",
         "precio": 20,
-        "imagen": "/imagenes/otros/res6.jpg"
+        "imagen": "imagenes/otros/res6.jpg"
     }
 ]

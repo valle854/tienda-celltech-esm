@@ -16,7 +16,7 @@ inicializarApp();
 // ===========================
 async function inicializarApp() {
 // Cargar datos
-await cargarProductos();
+const response = await cargarProductos();
 cargarCarrito();
 // Configurar UI
 actualizarContadorCarrito();
