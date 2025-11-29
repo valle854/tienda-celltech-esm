@@ -5,7 +5,7 @@
 "categoria": "Celulares",
 "descripcion": "Smartphone de última generación con cámara de 48MP y pantalla OLED",
 "precio": 699.99,
-"imagen": "/imagenes/celulares/cel1.jpg"
+"imagen": "./imagenes/celulares/cel1.jpg"
 },
 {
 "id": 2,
@@ -13,7 +13,7 @@
 "categoria": "Celulares",
 "descripcion": "Samsung Slip de 256 por 12ram",
 "precio": 399.99,
-"imagen": "/imagenes/celulares/cel10.webp"
+"imagen": "./imagenes/celulares/cel10.webp"
 },
 {
 "id": 3,
@@ -21,7 +21,7 @@
 "categoria": "Celulares",
 "descripcion": "Infiny camon 40 pro de 256 por 16ram",
 "precio": 220.99,
-"imagen": "/imagenes/celulares/cel12.webp"
+"imagen": "./imagenes/celulares/cel12.webp"
 },
 {
 "id": 4,
@@ -29,7 +29,7 @@
 "categoria": "Celulares",
 "descripcion": "Iphone 13 pro max de 256",
 "precio": 859.99,
-"imagen": "/imagenes/celulares/cel3.webp"
+"imagen": "./imagenes/celulares/cel3.webp"
 },
 {
 "id": 5,
@@ -37,7 +37,7 @@
 "categoria": "Celulares",
 "descripcion": "samsung galaxy a25 ultra",
 "precio": 1299.99,
-"imagen": "/imagenes/celulares/cel9.jpg"
+"imagen": "./imagenes/celulares/cel9.jpg"
 },
 {
 "id": 6,
@@ -53,7 +53,7 @@
 "categoria": "Audifono",
 "descripcion": "bluetooth recargable duradero",
 "precio": 19.99,
-"imagen": "/imagenes/audifono/aud1.jpg"
+"imagen": "./imagenes/audifono/aud1.jpg"
 },
 {
 "id": 8,
@@ -61,7 +61,7 @@
 "categoria": "Audifono",
 "descripcion": "Mouse ergonómico con RGB y sensor de alta precisión",
 "precio": 19.99,
-"imagen": "/imagenes/audifono/aud2.webp"
+"imagen": "./imagenes/audifono/aud2.webp"
 },
 {
 "id": 9,
